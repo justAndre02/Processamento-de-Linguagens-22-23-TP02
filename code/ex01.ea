@@ -1,0 +1,5 @@
+escrever 2*3
+var a = 10
+escrever a;
+b = 101
+escrever b;

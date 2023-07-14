@@ -1,0 +1,38 @@
+escrever "olá mundo!";
+escrever 9+2*3;
+
+//isto é um comentário
+/*isto
+também é
+um comenário*/
+
+var numero = 2023
+var mes = "maio"
+var dia = 17
+
+escrever numero;
+entrada numero;
+entrada mes;
+
+var tmp = 7+3
+var a = 10*30+8
+var a += 8
+var aleatorio = aleatorio(10);
+var aleatorio2 = aleatorio(100);
+f = 3;
+
+var numero = 5
+se (numero > 80) entao escrever "Positivo" senao escrever "Negativo"
+
+nao 0
+
+para (i de 14 ate 20) fazer escrever "Estou a funcionar"
+
+funcao maisdez (c, d)
+    var c += 10
+    var d += 10
+    escrever c;
+    escrever c;
+    fim;
+
+call maisdez(c, d)
